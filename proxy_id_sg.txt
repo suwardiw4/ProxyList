@@ -1,5 +1,6 @@
 43.218.77.16,1443,ID,Amazon.com
 172.232.239.151,587,ID,Akamai Connected Cloud
+172.232.239.151,587,ID,Linode
 172.232.237.112,2053,ID,Akamai Connected Cloud
 43.218.77.16,443,ID,Amazon.com
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
